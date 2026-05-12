@@ -1,3 +1,8 @@
-true
-New Update Available!
-https://t.me/AlightTalk
+{
+  "show_update": true,
+  "latest_version": "9.9.9",
+  "force_update": false,
+  "title": "New Update Available",
+  "message": "New Features Added\nBug Fixes\nPerformance Improved",
+  "download_url": "https://t.me/yourchannel"
+}
