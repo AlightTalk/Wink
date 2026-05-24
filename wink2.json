@@ -1,5 +1,5 @@
 {
-  "show_update_dialog": false,
+  "show_update_dialog": true,
   "title": "New Update Available",
   "message": "Join Telegram and download latest update",
   "update_url": "https://t.me/AlightTalk"
