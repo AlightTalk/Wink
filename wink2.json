@@ -1,8 +1,6 @@
 {
-  "show_update": true,
-  "latest_version": "9.9.9",
-  "force_update": false,
+  "show_update_dialog": true,
   "title": "New Update Available",
-  "message": "New Features Added\nBug Fixes\nPerformance Improved",
-  "download_url": "https://t.me/yourchannel"
+  "message": "Join Telegram and download latest update",
+  "update_url": "https://t.me/AlightTalk"
 }
